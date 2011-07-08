@@ -14,7 +14,7 @@ I've found it usefull. Maybe you will found it usefull too.
 Usage
 =====
 
-.. code::
+::
    $ jquerydownloader.py [options]
 
 
@@ -24,7 +24,7 @@ With no options downloads latest version of jquery
 Options
 -------
 
-.. code::
+::
 
   -h, --help            show this help message and exit
   -v, --version         Prints version of downloader
